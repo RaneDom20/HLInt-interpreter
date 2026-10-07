@@ -3,7 +3,7 @@
 **Course project (CSS125P).** HLInt reads a program written in a small hypothetical language called **HL** and executes it.
 
 **Team:** Marlon, Viggo, Dom
-**Video explanation:** https://mymailmapuaedu-my.sharepoint.com/:v:/g/personal/drpgorre_mymail_mapua_edu_ph/IQBhDpmvziPmS57ks8Ks7Kt7AcrRqy0mRdEui-ayjqn7QsY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oJCodJ
+**Video explanation:** [AngelesAranetaGorre_CSS125_FinalProj.mp4](https://mymailmapuaedu-my.sharepoint.com/:v:/g/personal/drpgorre_mymail_mapua_edu_ph/IQBhDpmvziPmS57ks8Ks7Kt7AcrRqy0mRdEui-ayjqn7QsY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DANFjo)
 
 ## What HL supports
 
