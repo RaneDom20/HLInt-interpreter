@@ -1,0 +1,8 @@
+x: integer;
+x:= 4;
+if(x==4)
+    output<<"x is four";
+if(x!=4)
+    output<<"never printed";
+if(x>2)
+    output<<x-1;

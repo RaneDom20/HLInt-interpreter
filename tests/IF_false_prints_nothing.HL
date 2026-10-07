@@ -1,0 +1,4 @@
+x: integer;
+x:= 6;
+if(x<5)
+    output<<x;
